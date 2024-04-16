@@ -103,7 +103,7 @@ By presenting this visually compelling representation, potential investors or st
 
 Feel free to provide any additional feedback or suggestions, as we can continue refining and polishing this visual representation to ensure it effectively communicates the essence of our innovative renewable energy ecosystem concept.
 
-                        # ☀️  ☁️  ⚡  🌊
+                           ☀️  ☁️   ⚡  🌊
                                   ⬇️
                           ┌───────────────┐
                           │               │
