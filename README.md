@@ -201,7 +201,7 @@ Through intelligent energy distribution, dynamic load management, energy storage
 
 As the global energy landscape continues to evolve, the adoption of this ecosystem positions participants at the forefront of innovation, positioning them as leaders in the transition towards a more sustainable and profitable energy future.
 
-#$
+# $
 Here's a highly technical and visually appealing ASCII art representation of the innovative renewable energy ecosystem:
 
 ```
