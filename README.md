@@ -354,21 +354,6 @@ As the global energy landscape continues to evolve, the adoption of this ecosyst
 
 By incorporating these architectural enhancements and optimizations, the Exotic Basket ecosystem can further solidify its position as a cutting-edge and sustainable investment vehicle, while pushing the boundaries of innovation and unlocking new opportunities within the decentralized and renewable energy landscapes.
 
-1. **Sensor Network and IoT**:
-   - A subsection labeled "Environmental Monitoring" has been added under the "Sensor Network & IoT" component, representing the collection of environmental data for the autonomous rebalancing algorithms.
-
-2. **Machine Learning and Predictive Analytics**:
-   - Two subsections have been added under this component:
-     - "Trend Detection": Represents the capability to detect emerging trends and potential disruptors through machine learning and predictive analytics.
-     - "Portfolio Optimization": Represents the optimization of the Exotic Basket's composition, weighting, and rebalancing strategies using advanced analytics.
-
-3. **Energy-Intensive Applications**:
-   - This component has been further broken down into subsections:
-     - "Crypto Mining": Representing the integration of cryptocurrency mining operations.
-     - "Cloud Storage": Representing the inclusion of data centers and cloud storage facilities.
-     - "AI/GPU Processing": Representing the integration of high-performance computing for AI and GPU-accelerated applications.
-
-By providing this level of detail and organization within the ASCII art representation, it becomes easier to understand and visualize the various components and their respective functionalities within the Exotic Basket ecosystem integrated with the Renewable Energy Infrastructure.
 
 
 1. **Renewable Energy Sources**: The renewable energy sources (solar, wind, hydroelectric, and others) are depicted at the top, feeding into the central energy grid.
@@ -387,4 +372,21 @@ By providing this level of detail and organization within the ASCII art represen
    - **Energy-Intensive Applications**: Providing computational power for executing the rebalancing algorithms.
 
 7. **Distributed Computing and Edge Processing**: The distributed computing capabilities of the ecosystem, including edge processing and localized microgrids, support the computational workload of the autonomous rebalancing algorithms.
+
+1. **Sensor Network and IoT**:
+   - A subsection labeled "Environmental Monitoring" has been added under the "Sensor Network & IoT" component, representing the collection of environmental data for the autonomous rebalancing algorithms.
+
+2. **Machine Learning and Predictive Analytics**:
+   - Two subsections have been added under this component:
+     - "Trend Detection": Represents the capability to detect emerging trends and potential disruptors through machine learning and predictive analytics.
+     - "Portfolio Optimization": Represents the optimization of the Exotic Basket's composition, weighting, and rebalancing strategies using advanced analytics.
+
+3. **Energy-Intensive Applications**:
+   - This component has been further broken down into subsections:
+     - "Crypto Mining": Representing the integration of cryptocurrency mining operations.
+     - "Cloud Storage": Representing the inclusion of data centers and cloud storage facilities.
+     - "AI/GPU Processing": Representing the integration of high-performance computing for AI and GPU-accelerated applications.
+
+By providing this level of detail and organization within the ASCII art representation, it becomes easier to understand and visualize the various components and their respective functionalities within the Exotic Basket ecosystem integrated with the Renewable Energy Infrastructure.
+
 
