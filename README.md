@@ -268,28 +268,28 @@ Certainly! Here's an improved and more detailed ASCII art representation that br
 │                             & EDGE PROCESSING                                      │
 │                                                                                     │
 └───────────────────────────────────────────────────────────────────────────────────┘
-                                           ▲
-                                           │
-                                     ┌─────┴─────┐
-                                     │           │
-                                     │ DECENTRALIZED
-                                     │   ORACLE  │
-                                     │  NETWORK  │
-                                     │           │
-                                     └─────┬─────┘
-                                           │
-                               ┌───────────┴───────────┐
-                               │                       │
-                               │     HYBRID           │
-                               │   COMPUTATIONAL      │
-                               │       MODEL          │
-                               │                       │
-                               └───────────┬───────────┘
-                                           │
+                                            ▲
+                                            │
+                                      ┌─────┴─────┐
+                                      │           │
+                                     │DECENTRALIZED|
+                                      │  ORACLE   │
+                                      │  NETWORK  │
+                                      │           │
+                                      └─────┬─────┘
+                                            │
+                                ┌───────────┴───────────┐
+                                │                       │
+                                │     HYBRID            │
+                                │   COMPUTATIONAL       │
+                                │       MODEL           │
+                                │                       │
+                                └───────────┬───────────┘
+                                            │
                           ┌─────────────────┴─────────────────┐
                           │                                   │
-                          │        CROSS-CHAIN               │
-                          │       INTEROPERABILITY           │
+                          │        CROSS-CHAIN                │
+                          │       INTEROPERABILITY            │
                           │                                   │
                           └───────────────────┬───────────────┘
                                               │
