@@ -263,10 +263,10 @@ Certainly! Here's an improved and more detailed ASCII art representation that br
                                                             │
                                                             ∨
 ┌───────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                     │
-│                             DISTRIBUTED COMPUTING                                  │
-│                             & EDGE PROCESSING                                      │
-│                                                                                     │
+│                                                                                   │
+│                             DISTRIBUTED COMPUTING                                 │
+│                             & EDGE PROCESSING                                     │
+│                                                                                   │
 └───────────────────────────────────────────────────────────────────────────────────┘
                                             ▲
                                             │
