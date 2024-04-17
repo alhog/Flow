@@ -242,15 +242,15 @@ As the global energy landscape continues to evolve, the adoption of this ecosyst
             │   & IoT       │   │   & PREDICTIVE│   │   APPLICATIONS│
             │  ┌───────────┐│   │    ANALYTICS  │   │  ┌───────────┐│
             │  │           ││   │  ┌───────────┐│   │  │           ││
-            │  │ ENVIRON-  ││   │  │ TREND     ││   │  │ CRYPTO    ││
-            │  │  MENTAL   ││   │  │ DETECTION ││   │  │ MINING    ││
+            │  │           ││   │  │ TREND     ││   │  │ CRYPTO    ││
+            │  │  WEATHER  ││   │  │ DETECTION ││   │  │ MINING    ││
             │  │ MONITORING││   │  │           ││   │  │           ││
             │  │           ││   │  └───────────┘│   │  └───────────┘│
             │  └───────────┘│   │               │   │  ┌───────────┐│
-            │               │   │  ┌───────────┐│   │  │           ││
-            │               │   │  │ PORTFOLIO ││   │  │ CLOUD     ││
-            │               │   │  │OPTIMIZATION│   │  │ STORAGE   ││
-            │               │   │  └───────────┘│   │  │           ││
+            │               │   │ ┌-───────────┐│   │  │           ││
+            │               │   │ │ PORTFOLIO  ││   │  │ CLOUD     ││
+            │               │   │ │OPTIMIZATION|│   │  │ STORAGE   ││
+            │               │   │ └────────-───┘│   │  │           ││
             └───────────────┘   └───────────────┘   │  └───────────┘│
                                                     │  ┌───────────┐│
                                                     │  │           ││
@@ -269,13 +269,13 @@ As the global energy landscape continues to evolve, the adoption of this ecosyst
 └─────────────────────────────────────────────────────────────────────────────┘
                                             ▲
                                             │
-                                      ┌─────┴─────┐
-                                      │           │
-                                     │DECENTRALIZED|
-                                      │  ORACLE   │
-                                      │  NETWORK  │
-                                      │           │
-                                      └─────┬─────┘
+                                      ┌─────┴───-─-─┐
+                                      │             │
+                                      │DECENTRALIZED|
+                                      │  ORACLE     │ 
+                                      │  NETWORK    │
+                                      │             │
+                                      └─────┬────--─┘
                                             │
                                 ┌───────────┴───────────┐
                                 │                       │
